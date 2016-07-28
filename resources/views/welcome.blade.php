@@ -32,13 +32,14 @@
 
             .title {
                 font-size: 96px;
+                color: cyan;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Hello Laravel</div>
             </div>
         </div>
     </body>
