@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Helpdesk</title>
-    <link rel="stylesheet" href="/assets/css/materialize.css">
+    <link rel="stylesheet" href="/assets/css/materialize-scss.css">
   </head>
   <body>
     <h1>Hello world</h1>
